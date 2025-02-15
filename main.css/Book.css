@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+.local-content{
+    /* align-content: center; */
+    padding: 20px;
+    background-color:brown;
+    justify-items: center;
+    text-align: center;
+}
+.mapss{
+    width: 100%;
+    height: 100px;
+    padding: 10px 20px;
+}

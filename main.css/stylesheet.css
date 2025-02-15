@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* color: aqua; */
+    /* font-family: monospace; */
+}
+
+.lo {
+    background-color: #0D0A23;
+
+    font-style: initial;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 50px;
+    justify-content: space-between;
+    padding: 20px 50px;
+    
+}
+
+.lo1 {
+    margin: 10px;
+
+
+}
+
+.log1 {
+    display: flex;
+    align-items: center;
+    gap: 1px;
+    color: aqua;
+
+}
+
+.lo2 {
+
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.lo2 a {
+    text-decoration: none;
+    color:aqua ;
+
+}
+
+
+
+.los {
+    color: black;
+    margin: 0;
+    padding: 0;
+    height: 90vh;
+    /* background-image: url(https://images.unsplash.com/photo-1731569348001-e49c36947289?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
+    /* Replace with your image URL */
+    /* background-image: url(https://media.istockphoto.com/id/1218597503/vector/taxi-service-with-phone-in-hand-flat-urban-background-with-sedan-cab-and-online-traffic-with.jpg?s=612x612&w=is&k=20&c=kcOh1j5mvBGER6jZZB0JrhHFFKu-uTRpg7yfjLm6Qt8=); */
+    background-image: url(https://www.shutterstock.com/shutterstock/photos/1722074203/display_1500/stock-vector-taxi-service-online-concept-taxi-service-application-on-mobile-web-banner-with-copy-space-1722074203.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* margin-top: 50px; */
+    text-align: center;
+
+
+
+}
+
+.los1 {
+    display: flex;
+
+    font-size: larger;
+
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.los2 {
+    background-image: url(downloadsss.jfif);
+}
+
+
+
+.los1 h1 {
+    color: blue;
+}
+
+.hels:hover {
+    background-color: blue;
+    /* font-size: 18px; */
+}
+
+.lassi {
+    background-color: black;
+    width: 100%;
+    /* height: 500px; */
+
+}
+
+.boxes {
+    padding: 50px 50px;
+    color: white;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+}
+.foters{
+    display: flex;
+    justify-content:space-between;
+    color: white;
+    padding: 10px 20px;
+    /* background-color: red; */
+    
+}
+.foters1{
+  display: flex;
+    color: white;
+    align-items: center;
+    gap: 20px;
+    /* margin: 20px 10px; */
+    /* justify-content: space-between; */
+    text-align: center;
+}
+
+.forters2{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    gap: 10px;
+    text-align: center;
+    padding: 5px;
+
+
+}
+.foters3{
+    color: white;
+}
+.foot2{
+    width: 100%;
+    /* height: 100px; */
+    background-color: black;
+    /* padding: 30px 250px; */
+    text-align: center;
+   
+}
+.lassi icons1{
+    justify-content: space-between;
+    gap: 10px;
+    font: size 24px; ;
+}

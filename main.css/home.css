@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* color: red; */
+}
+.logc{
+    
+    background-image: url(https://c8.alamy.com/comp/2D309BK/taxi-landing-page-flat-color-vector-template-urban-travel-service-homepage-layout-cab-delivery-one-page-website-interface-with-cartoon-character-2D309BK.jpg);
+   height: 800px;
+   width:100%;
+   background-size: cover;
+   /* background-position: center; */
+   background-repeat: no-repeat;
+   /* margin-top: 50px; */
+   text-align: left;
+}
+/* .form{
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+    padding: 10px 15px;
+} */
+.formss{
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    margin: 10px 20px;
+}
